@@ -1,0 +1,78 @@
+.acc-main{
+    padding: 0 0 0 10%;
+}
+
+.acc-main-p1{
+    background: #155799 !important;
+    border-radius: 10px !important;
+    color: white !important;
+    
+}
+
+.acc-main-p2{
+    background: #F3F9FF !important;
+    border-radius: 10px !important;
+    color: #155799 !important;
+    font-family: 'Montserrat' , sans-serif !important; 
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 24px !important;
+}
+
+.acc-main-p2-clicked{
+    background: #155799 !important;
+    border-radius: 10px !important;
+    color: white !important;
+}
+
+.acc-main-p2:hover{
+    background: #155799 !important;
+    color: white !important;
+    
+}
+
+.acc-main-p3{
+    background: #F3F9FF !important;
+    border-radius: 10px !important;
+    color: #155799 !important;
+}
+
+.acc-main-p3:hover{
+    background: #155799 !important;
+    color: white !important;
+}
+
+.acc-details{
+    background: #F3F9FF !important ;
+    border-radius: 10px  !important;
+}
+
+.acc-icon{
+    color: white;
+}
+
+.acc-heading{
+    font-family: 'Poppins', sans-serif;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px ;
+    /* identical to box height */
+    color: #263238;
+    
+}
+
+.acc-heading-style{
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 24px !important;
+    width: 40%;
+    padding: 2%;
+
+    
+}
+
